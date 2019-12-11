@@ -1,4 +1,4 @@
-# ballgown_from_rsem_modify
+# Modify ballgownrsem
 solve an intron position error in ballgownrsem.R from [ballgown](https://github.com/alyssafrazee/ballgown)
 
 ballgown is an downstream RNA-seq Bioconductor package for both gene and isoform level differential analysis. 
