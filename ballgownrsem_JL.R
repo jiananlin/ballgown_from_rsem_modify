@@ -1,5 +1,5 @@
 ## The code is from ballgownrsem at https://github.com/alyssafrazee/ballgown/blob/master/R/ballgownrsem.R
-## modified line to line
+## modified line 47 to line 51
 
 
 
